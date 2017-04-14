@@ -9,3 +9,17 @@ D:\tools\dbworkspace>git commit -m "initial commit"
 D:\tools\dbworkspace>git remote add origin https://github.com/Dibyanand/banking.git
 
 D:\tools\dbworkspace>git push -u origin master
+
+
+
+
+
+
+
+
+
+D:\tools\blog-microservices2>git clone https://github.com/callistaenterprise/blog-microservices.git
+
+D:\tools\blog-microservices2>git clone https://github.com/callistaenterprise/blog-microservices.git
+
+git checkout -b B1 M1.1
