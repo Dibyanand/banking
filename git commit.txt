@@ -1,0 +1,11 @@
+D:\tools\dbworkspace>git init
+
+D:\tools\dbworkspace>git add bankingsystem/*
+
+D:\tools\dbworkspace>git status
+
+D:\tools\dbworkspace>git commit -m "initial commit"
+
+D:\tools\dbworkspace>git remote add origin https://github.com/Dibyanand/banking.git
+
+D:\tools\dbworkspace>git push -u origin master
